@@ -109,6 +109,7 @@ header .header-section .content {
 header .header-section .content .bg-pink {
 	max-width: 200px;
 	font-size: 14px;
+	font-weight: 700;
 }
 
 header .header-section .illustration {
